@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 MySQL GUI Version<br>🌱 Python Advance, Minor in CSE - IIT<br>
+⇒ Python Course Beginner to Advance <br>⇒ Minor in CSE - IIT Mandi<br>⇒ Minor in AI/ML - IIT Patna<br>
+# 🎯 Projects:
+⇒ MySQL GUI<br>⇒ Savra Application<br>⇒ ML NER model for Indian visiting card<br>
 
 
 ## 🌐 Socials:
